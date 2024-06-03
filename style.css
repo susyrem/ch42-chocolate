@@ -1,0 +1,28 @@
+
+/* CSS type Selector */
+body {
+    background-color: black;
+    color:pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    background-color: #ff6f91;
+    color: #d5cabd;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* CSS type selector: pseudo class selector */
+button:hover {
+    background-color: rosybrown;
+
+}
+h1 {
+    color: #BFA9E3; 
+}
+a {
+    color:rgb(190, 105, 149);
+}
